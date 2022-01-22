@@ -7,7 +7,7 @@
 ※ 1월 3주차
 - [골3-웜홀](https://www.acmicpc.net/problem/1865)
   - 풀이
-  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/boj_1865.cpp)
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1865.cpp)
 - [골4-트리의 지름](https://www.acmicpc.net/problem/1967)
   - 풀이
-  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/boj_1967.cpp)
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1967.cpp)
