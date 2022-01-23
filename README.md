@@ -18,12 +18,12 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 
 ## 2021-01
 ※ 1월 3주차
-- [골3-웜홀](https://www.acmicpc.net/problem/1865)
-  - [풀이](https://jh2song.notion.site/Bellman-Ford-9885c93c2bad4fc9ad13435bb98d962f)
-  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1865.cpp)
-- [골4-트리의 지름](https://www.acmicpc.net/problem/1967)
-  - [풀이](https://jh2song.notion.site/Tree-9e8b31ec6df24255ae3da7867096e137)
-  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1967.cpp)
+- [골3-웜홀](https://www.acmicpc.net/problem/1865){:target="_blank"}
+  - [풀이](https://jh2song.notion.site/Bellman-Ford-9885c93c2bad4fc9ad13435bb98d962f){:target="_blank"}{:target="_blank"}
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1865.cpp){:target="_blank"}
+- [골4-트리의 지름](https://www.acmicpc.net/problem/1967){:target="_blank"}
+  - [풀이](https://jh2song.notion.site/Tree-9e8b31ec6df24255ae3da7867096e137){:target="_blank"}
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1967.cpp){:target="_blank"}
 
 ※ 1월 4주차
-- [일요일 웜홀 복기1](http://boj.kr/8b7f4575f721489791e30cf0c31958f4)
+- [일요일 웜홀 복기1](http://boj.kr/8b7f4575f721489791e30cf0c31958f4){:target="_blank"}
