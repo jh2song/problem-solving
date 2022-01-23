@@ -18,7 +18,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 복기하는 주는 `x요일 문제이름 복기(복기횟수)`에 백준이면 백준 코드 링크, 프로그래머스면 (이하 추가)를 링크합니다.
 
 ## 소스 컨벤션
-[코드 디렉토리](https://github.com/jh2song/problem-solving/tree/master/PS/Debug)에서 소스 원본을 보실 수 있습니다.
+[코드 디렉토리](https://github.com/jh2song/problem-solving/tree/master/PS/PS)에서 소스 원본을 보실 수 있습니다.
 
 백준 문제는 `boj_문제번호`로 표시하고 프로그래머스 문제는 `prog_문제이름`로 표시합니다.
 
