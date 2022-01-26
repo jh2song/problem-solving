@@ -35,4 +35,4 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1967.cpp)
 
 ※ 1월 4주차
-- [일요일 웜홀 복기1](http://boj.kr/8b7f4575f721489791e30cf0c31958f4), [월요일 트리의 지름 복기1](http://boj.kr/df668a0cd6f94be3b460b5bb25b8e13c), [월요일 웜홀 복기2](http://boj.kr/ee988e2c32ac4c4a9c53391c52687434)
+- [일요일 웜홀 복기1](http://boj.kr/8b7f4575f721489791e30cf0c31958f4), [월요일 트리의 지름 복기1](http://boj.kr/df668a0cd6f94be3b460b5bb25b8e13c), [월요일 웜홀 복기2](http://boj.kr/ee988e2c32ac4c4a9c53391c52687434), [수요일 웜홀 복기3](http://boj.kr/6fcef9e578e34af89153b6e9e2157c35)
