@@ -41,6 +41,6 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 - [L2-기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
   - 풀이
   - 소스코드
-- [L2-프린터)(https://programmers.co.kr/learn/courses/30/lessons/42587)
+- [L2-프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
   - 풀이
   - 소스코드
