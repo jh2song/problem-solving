@@ -1,4 +1,4 @@
-﻿  boj_1865.cpp
-C:\Users\spec0\Desktop\Project\PS\PS\PS\boj_1865.cpp(22,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\spec0\Desktop\Project\PS\PS\PS\boj_1865.cpp(33,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  prog_기능개발.cpp
+C:\Users\spec0\Desktop\Project\PS\PS\PS\prog_기능개발.cpp(13,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\spec0\Desktop\Project\PS\PS\PS\prog_기능개발.cpp(21,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   PS.vcxproj -> C:\Users\spec0\Desktop\Project\PS\PS\Debug\PS.exe
