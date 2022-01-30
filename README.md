@@ -11,7 +11,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 
 백준을 풀 때는 `난이도` (ex. 골3, 실1)를 적고 `가운데 줄`을 붙인 뒤 `문제 이름`을 적습니다.
 
-프로그래머스를 풀 때는 (이하 추가)
+프로그래머스를 풀 때는 `레벨` (ex. L2)을 적고 `가운데 줄`을 붙인 뒤 `문제 이름`을 적습니다. 
 
 각 문제마다 `풀이`와 `소스코드`를 첨부합니다.
 
@@ -36,3 +36,11 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 
 ※ 1월 4주차
 - [일요일 웜홀 복기1](http://boj.kr/8b7f4575f721489791e30cf0c31958f4), [월요일 트리의 지름 복기1](http://boj.kr/df668a0cd6f94be3b460b5bb25b8e13c), [월요일 웜홀 복기2](http://boj.kr/ee988e2c32ac4c4a9c53391c52687434), [수요일 웜홀 복기3](http://boj.kr/6fcef9e578e34af89153b6e9e2157c35), [수요일 트리의 지름 복기2](http://boj.kr/2738128513c4448e9ada3faa7da33806), [금요일 웜홀 복기4](http://boj.kr/59c2e2546bbb4e50a39a69c68f0c1e24), [금요일 트리의 지름 복기3](http://boj.kr/c4a460c79de241b8bad2ee6457917e2f), [토요일 웜홀 복기5](http://boj.kr/8e5b8dceb3084e0e86a044f4fc1c442e), [토요일 트리의 지름 복기4](http://boj.kr/b8524e13a19d4945a095b422145bfaa1)
+
+※ 1월 5주차
+- [L2-기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+  - 풀이
+  - 소스코드
+- [L2-프린터)(https://programmers.co.kr/learn/courses/30/lessons/42587)
+  - 풀이
+  - 소스코드
