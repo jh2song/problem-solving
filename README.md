@@ -43,4 +43,4 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.cpp)
 - [L2-프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
   - 풀이
-  - 소스코드
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%ED%94%84%EB%A6%B0%ED%84%B0.cpp)
