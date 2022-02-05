@@ -44,3 +44,12 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 - [L2-프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
   - [풀이](https://jh2song.notion.site/Implementation-0bc3c096609a428eac240e0f97f18bf4)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%ED%94%84%EB%A6%B0%ED%84%B0.cpp)
+
+## 2021-02
+※ 2월 1주차
+- [L2-다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+  - 풀이
+  - 소스코드
+- [L2-더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+  - 풀이
+  - 소스코드
