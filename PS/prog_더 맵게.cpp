@@ -7,7 +7,7 @@ int solution(vector<int> scoville, int K) {
     int answer = 0;
     priority_queue<ll, vector<ll>, greater<ll>> pq_sco;
 
-    // pq_scoì— ìŠ¤ì½”ë¹Œ ì§€ìˆ˜ push
+    // pq_sco¿¡ ½ºÄÚºô Áö¼ö push
     for (auto e : scoville)
     {
         pq_sco.push((ll)e);
