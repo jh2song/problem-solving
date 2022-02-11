@@ -5,7 +5,7 @@
 
 Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 위주로 사용할 예정입니다.
 
-일요일을 주의 시작으로 간주합니다.
+`일요일`을 주의 시작으로 간주합니다.
 
 ## 컨벤션
 매달 `yyyy-mm`으로 기록합니다.
@@ -55,3 +55,11 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 - [L2-더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
   - [풀이](https://jh2song.notion.site/Priority-Queue-f8861183919a446e8796a1f8ca7f5383)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EB%8D%94%20%EB%A7%B5%EA%B2%8C.cpp)
+
+※ 2월 2주차
+- [L3-디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+  - 풀이
+  - 소스코드
+- [L3-이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+  - 풀이
+  - 소스코드
