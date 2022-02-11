@@ -50,7 +50,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 ## 2021-02
 ※ 2월 1주차
 - [L2-다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
-  - 풀이
+  - [풀이](https://jh2song.notion.site/Implementation-0bc3c096609a428eac240e0f97f18bf4)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.cpp)
 - [L2-더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
   - 풀이
