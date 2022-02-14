@@ -33,5 +33,8 @@
     <ClCompile Include="prog_더 맵게.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prog_디스크 컨트롤러.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
