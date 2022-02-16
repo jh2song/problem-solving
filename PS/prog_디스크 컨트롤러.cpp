@@ -1,61 +1,39 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-bool visited[501];
-
 int solution(vector<vector<int>> jobs) {
     int answer = 0;
 
-    sort(jobs.begin(), jobs.end(), [](vector<int> a, vector<int> b) {
-        return a[1] < b[1];
-        });
+    // sorting in asc
+    // 1st: request_start
+    // 2nd: taken_time
+    sort(jobs.begin(), jobs.end());
+    auto cmp = [](vector<int> a, vector<int> b) {return a[1] > b[1]; };
+    priority_queue<vector<int>, vector<vector<int>>, decltype(cmp)> pq(cmp);
 
-    int point = 0;
-    vector<int> fsfe; // from start to end
-    while (true)
+    int cur_time = 0;
+    int i = 0;
+    while (!(i >= jobs.size() && pq.empty()))
     {
-        // break condition
-        if (fsfe.size() == jobs.size())
-            break;
-
-        bool exit_flag = false;
-        for (int i = 0; i < jobs.size(); i++)
+        if (i < jobs.size() && cur_time >= jobs[i][0])
         {
-            if (visited[i] == false && jobs[i][0] <= point)
-            {
-                visited[i] = true;
-                fsfe.push_back(jobs[i][1] + (jobs[i][0] - point));
-                point += jobs[i][1] + (jobs[i][0] - point);
-                exit_flag = true;
-                break;
-            }
-        }
-
-        if (exit_flag)
+            pq.push(jobs[i++]);
             continue;
-
-        // idle time process
-        int min = 999999;
-        int min_idx = -1;
-        for (int i = 0; i < jobs.size(); i++)
-        {
-            if (visited[i] == false && jobs[i][0] <= min)
-            {
-                min = jobs[i][0];
-                min_idx = i;
-            }
         }
 
-        visited[min_idx] = true;
-        fsfe.push_back(jobs[min_idx][1]);
-        point += jobs[min_idx][1] + (jobs[min_idx][0] - point);
+        if (pq.empty())
+        {
+            cur_time = jobs[i][0];
+            continue;
+        }
+
+        if (!pq.empty())
+        {
+            cur_time += pq.top()[1];
+            answer += cur_time - pq.top()[0];
+            pq.pop();
+        }
     }
 
-    for (auto e : fsfe)
-    {
-        answer += e;
-    }
-
-    answer = answer / (int)jobs.size();
-    return answer;
+    return answer / jobs.size();
 }
