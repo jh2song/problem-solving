@@ -62,4 +62,4 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.cpp)
 - [L3-이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
   - 풀이
-  - 소스코드
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.cpp)
