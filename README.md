@@ -70,4 +70,4 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
   - 소스코드
 - [골5-Σ](https://www.acmicpc.net/problem/13172)
   - 풀이
-  - 
+  - 소스코드
