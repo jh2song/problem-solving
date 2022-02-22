@@ -39,5 +39,8 @@
     <ClCompile Include="prog_이중우선순위큐.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="boj_1916.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
