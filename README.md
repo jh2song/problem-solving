@@ -63,10 +63,10 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 
 ※ 2월 2주차
 - [L3-디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
-  - [풀이](https://www.notion.so/jh2song/Priority-Queue-f8861183919a446e8796a1f8ca7f5383)
+  - [풀이](https://jh2song.notion.site/Priority-Queue-f8861183919a446e8796a1f8ca7f5383)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.cpp)
 - [L3-이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
-  - [풀이](https://www.notion.so/jh2song/Multiset-f9c923e6691f4d0e882499ec33aa23d0)
+  - [풀이](https://jh2song.notion.site/Multiset-f9c923e6691f4d0e882499ec33aa23d0)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.cpp)
 
 ※ 2월 3주차
