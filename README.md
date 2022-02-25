@@ -71,7 +71,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 
 ※ 2월 3주차
 - [골5-최소비용 구하기](https://www.acmicpc.net/problem/1916)
-  - 풀이
+  - [풀이](https://jh2song.notion.site/Dijkstar-0fcfd7f45d2c4241bf96a990320ac278)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1916.cpp)
 - [골5-Σ](https://www.acmicpc.net/problem/13172)
   - 풀이
