@@ -76,3 +76,11 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 - [골5-Σ](https://www.acmicpc.net/problem/13172)
   - [풀이](https://jh2song.notion.site/Math-119a9f4e2b7345d6b7c8825cb60b9665)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_13172.cpp)
+
+※ 2월 4주차
+- [골5-파이프 옮기기 1](https://www.acmicpc.net/problem/17070)
+  - 풀이
+  - 소스코드
+- [골4-거짓말](https://www.acmicpc.net/problem/1043)
+  - 풀이
+  - 소스코드
