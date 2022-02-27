@@ -80,7 +80,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 ※ 2월 4주차
 - [골5-파이프 옮기기 1](https://www.acmicpc.net/problem/17070)
   - 풀이
-  - 소스코드
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_17070.cpp)
 - [골4-거짓말](https://www.acmicpc.net/problem/1043)
   - 풀이
   - 소스코드
