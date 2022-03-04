@@ -82,5 +82,5 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
   - [풀이](https://jh2song.notion.site/Dynamic-Programming-e0bcb07371234e63b72f7ef23f07554a)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_17070.cpp)
 - [골4-거짓말](https://www.acmicpc.net/problem/1043)
-  - 풀이
+  - [풀이](https://jh2song.notion.site/Union-Find-ec254bac258e45598981d975b2089229)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1043.cpp)
