@@ -83,7 +83,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 ## 2022-03
 ※ 3월 1주차
 - [골4-특정한 최단 경로](https://www.acmicpc.net/problem/1504)
-  - 풀이
+  - [풀이](https://jh2song.notion.site/Dijkstra-0fcfd7f45d2c4241bf96a990320ac278)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1504.cpp)
 - [골4-내려가기](https://www.acmicpc.net/problem/2096)
   - 풀이
