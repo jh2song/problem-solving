@@ -88,3 +88,11 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 - [골4-내려가기](https://www.acmicpc.net/problem/2096)
   - [풀이](https://jh2song.notion.site/Dynamic-Programming-e0bcb07371234e63b72f7ef23f07554a)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_2096.cpp)
+
+※ 3월 2주차
+- [골4-문자열 폭발](https://www.acmicpc.net/problem/9935)
+  - 풀이
+  - 소스코드
+- [골4-행렬 제곱](https://www.acmicpc.net/problem/10830)
+  - 풀이
+  - 소스코드
