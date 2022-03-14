@@ -1,2 +1,3 @@
-﻿  boj_2096.cpp
+﻿  boj_9935.cpp
+C:\Users\spec0\Desktop\Project\PS\PS\PS\boj_9935.cpp(28,16): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
   PS.vcxproj -> C:\Users\spec0\Desktop\Project\PS\PS\Debug\PS.exe
