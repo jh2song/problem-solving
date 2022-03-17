@@ -6,7 +6,7 @@ https://cocoon1787.tistory.com/720
 using namespace std;
 
 string a;
-string b;
+string p;
 int a_len;
 int b_len;
 vector<char> v;
@@ -17,9 +17,9 @@ int main()
 	cin.tie(NULL);
 
 	cin >> a;
-	cin >> b;
+	cin >> p;
 	a_len = a.length();
-	b_len = b.length();
+	b_len = p.length();
 
 	for (int i = 0; i < a_len; i++)
 	{
@@ -32,7 +32,7 @@ int main()
 			bool flag = true;
 			for (int j = 0; j < b_len; j++)
 			{
-				if (v[v_len - 1 - j] != b[b_len - 1 - j])
+				if (v[v_len - 1 - j] != p[b_len - 1 - j])
 				{
 					flag = false;
 					break;
