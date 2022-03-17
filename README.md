@@ -95,4 +95,4 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_9935.cpp)
 - [골4-행렬 제곱](https://www.acmicpc.net/problem/10830)
   - 풀이
-  - 소스코드
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_10830.cpp)
