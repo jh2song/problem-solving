@@ -40,6 +40,6 @@ int main()
 			}
 		}
 	}
-	cout << "종료되었습니다!";
+	cout << "Program End!";
 	return 0;
 }
