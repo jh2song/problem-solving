@@ -100,7 +100,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 ※ 3월 3주차
 - [골4-서강그라운드](https://www.acmicpc.net/problem/14938)
   - 풀이
-  - 소스코드
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_14938.cpp)
 - [골3-파티](https://www.acmicpc.net/problem/1238)
   - 풀이
   - 소스코드
