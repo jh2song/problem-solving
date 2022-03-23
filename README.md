@@ -1,106 +1,106 @@
-# ë§¤ì£¼ ì•Œê³ ë¦¬ì¦˜ í’€ì´
+# ¸ÅÁÖ ¾Ë°í¸®Áò Ç®ÀÌ
 
-## ì„œë¬¸
-ì´ ë ˆí¼ì§€í† ë¦¬ëŠ” ë§¤ì£¼ ìµœì†Œ ì•Œê³ ë¦¬ì¦˜ ë¬¸ì œ 2ë¬¸ì œë¥¼ í’€ê³  ë³µê¸°í•˜ëŠ” ê³¼ì •ì„ ê¸°ë¡í•œ ì €ì¥ì†Œì…ë‹ˆë‹¤. `2ì£¼ ê°„ê²©ìœ¼ë¡œ í•œ ì£¼ëŠ” ë¬¸ì œ í’€ì´, í•œ ì£¼ëŠ” ë³µê¸°í•˜ëŠ” ë°©ì‹ìœ¼ë¡œ ì§„í–‰ë©ë‹ˆë‹¤.` ë„ˆë¬´ ì‰¬ìš´ ë¬¸ì œë¡œ êµ¬ì„±ë¼ ìˆìœ¼ë©´ ë³µê¸° ì£¼ëŠ” ìƒëµí•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.
+## ¼­¹®
+ÀÌ ·¹ÆÛÁöÅä¸®´Â ¸ÅÁÖ ÃÖ¼Ò ¾Ë°í¸®Áò ¹®Á¦ 2¹®Á¦¸¦ Ç®°í º¹±âÇÏ´Â °úÁ¤À» ±â·ÏÇÑ ÀúÀå¼ÒÀÔ´Ï´Ù. `2ÁÖ °£°İÀ¸·Î ÇÑ ÁÖ´Â ¹®Á¦ Ç®ÀÌ, ÇÑ ÁÖ´Â º¹±âÇÏ´Â ¹æ½ÄÀ¸·Î ÁøÇàµË´Ï´Ù.` ³Ê¹« ½¬¿î ¹®Á¦·Î ±¸¼ºµÅ ÀÖÀ¸¸é º¹±â ÁÖ´Â »ı·«ÇÒ ¼ö ÀÖ½À´Ï´Ù.
 
-Visual Studio 2019 í™˜ê²½ì—ì„œ ë™ì‘ë˜ë„ë¡ ì„¤ì •í•˜ì˜€ìŠµë‹ˆë‹¤. C++ì„ ìœ„ì£¼ë¡œ ì‚¬ìš©í•  ì˜ˆì •ì…ë‹ˆë‹¤.
+Visual Studio 2019 È¯°æ¿¡¼­ µ¿ÀÛµÇµµ·Ï ¼³Á¤ÇÏ¿´½À´Ï´Ù. C++À» À§ÁÖ·Î »ç¿ëÇÒ ¿¹Á¤ÀÔ´Ï´Ù.
 
-`ì¼ìš”ì¼`ì„ ì£¼ì˜ ì‹œì‘ìœ¼ë¡œ ê°„ì£¼í•©ë‹ˆë‹¤.
+`ÀÏ¿äÀÏ`À» ÁÖÀÇ ½ÃÀÛÀ¸·Î °£ÁÖÇÕ´Ï´Ù.
 
-## ì»¨ë²¤ì…˜
-ë§¤ë‹¬ `yyyy-mm`ìœ¼ë¡œ ê¸°ë¡í•©ë‹ˆë‹¤.
-ê° ë‹¬ë§ˆë‹¤ `â€» mì›” nì£¼ì°¨`ë¡œ ê¸°ë¡í•©ë‹ˆë‹¤. (ex. `01ì›”` X, `1ì›”` O)
+## ÄÁº¥¼Ç
+¸Å´Ş `yyyy-mm`À¸·Î ±â·ÏÇÕ´Ï´Ù.
+°¢ ´Ş¸¶´Ù `¡Ø m¿ù nÁÖÂ÷`·Î ±â·ÏÇÕ´Ï´Ù. (ex. `01¿ù` X, `1¿ù` O)
 
-ë°±ì¤€ì„ í’€ ë•ŒëŠ” `ë‚œì´ë„` (ex. ê³¨3, ì‹¤1)ë¥¼ ì ê³  `ê°€ìš´ë° ì¤„`ì„ ë¶™ì¸ ë’¤ `ë¬¸ì œ ì´ë¦„`ì„ ì ìŠµë‹ˆë‹¤.
+¹éÁØÀ» Ç® ¶§´Â `³­ÀÌµµ` (ex. °ñ3, ½Ç1)¸¦ Àû°í `°¡¿îµ¥ ÁÙ`À» ºÙÀÎ µÚ `¹®Á¦ ÀÌ¸§`À» Àû½À´Ï´Ù.
 
-í”„ë¡œê·¸ë˜ë¨¸ìŠ¤ë¥¼ í’€ ë•ŒëŠ” `ë ˆë²¨` (ex. L2)ì„ ì ê³  `ê°€ìš´ë° ì¤„`ì„ ë¶™ì¸ ë’¤ `ë¬¸ì œ ì´ë¦„`ì„ ì ìŠµë‹ˆë‹¤. 
+ÇÁ·Î±×·¡¸Ó½º¸¦ Ç® ¶§´Â `·¹º§` (ex. L2)À» Àû°í `°¡¿îµ¥ ÁÙ`À» ºÙÀÎ µÚ `¹®Á¦ ÀÌ¸§`À» Àû½À´Ï´Ù. 
 
-ê° ë¬¸ì œë§ˆë‹¤ `í’€ì´`ì™€ `ì†ŒìŠ¤ì½”ë“œ`ë¥¼ ì²¨ë¶€í•©ë‹ˆë‹¤.
+°¢ ¹®Á¦¸¶´Ù `Ç®ÀÌ`¿Í `¼Ò½ºÄÚµå`¸¦ Ã·ºÎÇÕ´Ï´Ù.
 
-ë³µê¸°í•˜ëŠ” ì£¼ëŠ” `xìš”ì¼ ë¬¸ì œì´ë¦„ ë³µê¸°(ë³µê¸°íšŸìˆ˜)`ì— ë°±ì¤€ì´ë©´ ë°±ì¤€ ì½”ë“œ ë§í¬, í”„ë¡œê·¸ë˜ë¨¸ìŠ¤ë©´ (ì´í•˜ ì¶”ê°€)ë¥¼ ë§í¬í•©ë‹ˆë‹¤.
+º¹±âÇÏ´Â ÁÖ´Â `x¿äÀÏ ¹®Á¦ÀÌ¸§ º¹±â(º¹±âÈ½¼ö)`¿¡ ¹éÁØÀÌ¸é ¹éÁØ ÄÚµå ¸µÅ©, ÇÁ·Î±×·¡¸Ó½º¸é (ÀÌÇÏ Ãß°¡)¸¦ ¸µÅ©ÇÕ´Ï´Ù.
 
-## ì†ŒìŠ¤ ì»¨ë²¤ì…˜
-[ì½”ë“œ ë””ë ‰í† ë¦¬](https://github.com/jh2song/problem-solving/tree/master/PS)ì—ì„œ ì†ŒìŠ¤ ì›ë³¸ì„ ë³´ì‹¤ ìˆ˜ ìˆìŠµë‹ˆë‹¤.
+## ¼Ò½º ÄÁº¥¼Ç
+[ÄÚµå µğ·ºÅä¸®](https://github.com/jh2song/problem-solving/tree/master/PS)¿¡¼­ ¼Ò½º ¿øº»À» º¸½Ç ¼ö ÀÖ½À´Ï´Ù.
 
-ë°±ì¤€ ë¬¸ì œëŠ” `boj_ë¬¸ì œë²ˆí˜¸`ë¡œ í‘œì‹œí•˜ê³  í”„ë¡œê·¸ë˜ë¨¸ìŠ¤ ë¬¸ì œëŠ” `prog_ë¬¸ì œì´ë¦„`ë¡œ í‘œì‹œí•©ë‹ˆë‹¤.
+¹éÁØ ¹®Á¦´Â `boj_¹®Á¦¹øÈ£`·Î Ç¥½ÃÇÏ°í ÇÁ·Î±×·¡¸Ó½º ¹®Á¦´Â `prog_¹®Á¦ÀÌ¸§`·Î Ç¥½ÃÇÕ´Ï´Ù.
 
-## ë³´ëŠ” íŒ
-`Ctrl+í´ë¦­`ìœ¼ë¡œ ë§í¬ë¥¼ í´ë¦­í•˜ì‹œë©´ ìƒˆ íƒ­ì—ì„œ ë³´ì‹¤ ìˆ˜ ìˆìŠµë‹ˆë‹¤.
+## º¸´Â ÆÁ
+`Ctrl+Å¬¸¯`À¸·Î ¸µÅ©¸¦ Å¬¸¯ÇÏ½Ã¸é »õ ÅÇ¿¡¼­ º¸½Ç ¼ö ÀÖ½À´Ï´Ù.
 
 ## 2022-01
-â€» 1ì›” 3ì£¼ì°¨
-- [ê³¨3-ì›œí™€](https://www.acmicpc.net/problem/1865)
-  - [í’€ì´](https://jh2song.notion.site/Bellman-Ford-872d07af91104692a329b771d03961f5)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1865.cpp)
-- [ê³¨4-íŠ¸ë¦¬ì˜ ì§€ë¦„](https://www.acmicpc.net/problem/1967)
-  - [í’€ì´](https://jh2song.notion.site/Tree-d9b293013d4040aca261c1ef2cac3407)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1967.cpp)
+¡Ø 1¿ù 3ÁÖÂ÷
+- [°ñ3-¿úÈ¦](https://www.acmicpc.net/problem/1865)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Bellman-Ford-872d07af91104692a329b771d03961f5)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1865.cpp)
+- [°ñ4-Æ®¸®ÀÇ Áö¸§](https://www.acmicpc.net/problem/1967)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Tree-d9b293013d4040aca261c1ef2cac3407)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1967.cpp)
 
-â€» 1ì›” 4ì£¼ì°¨
-- [ì¼ìš”ì¼ ì›œí™€ ë³µê¸°1](http://boj.kr/8b7f4575f721489791e30cf0c31958f4), [ì›”ìš”ì¼ íŠ¸ë¦¬ì˜ ì§€ë¦„ ë³µê¸°1](http://boj.kr/df668a0cd6f94be3b460b5bb25b8e13c), [ì›”ìš”ì¼ ì›œí™€ ë³µê¸°2](http://boj.kr/ee988e2c32ac4c4a9c53391c52687434), [ìˆ˜ìš”ì¼ ì›œí™€ ë³µê¸°3](http://boj.kr/6fcef9e578e34af89153b6e9e2157c35), [ìˆ˜ìš”ì¼ íŠ¸ë¦¬ì˜ ì§€ë¦„ ë³µê¸°2](http://boj.kr/2738128513c4448e9ada3faa7da33806), [ê¸ˆìš”ì¼ ì›œí™€ ë³µê¸°4](http://boj.kr/59c2e2546bbb4e50a39a69c68f0c1e24), [ê¸ˆìš”ì¼ íŠ¸ë¦¬ì˜ ì§€ë¦„ ë³µê¸°3](http://boj.kr/c4a460c79de241b8bad2ee6457917e2f), [í† ìš”ì¼ ì›œí™€ ë³µê¸°5](http://boj.kr/8e5b8dceb3084e0e86a044f4fc1c442e), [í† ìš”ì¼ íŠ¸ë¦¬ì˜ ì§€ë¦„ ë³µê¸°4](http://boj.kr/b8524e13a19d4945a095b422145bfaa1)
+¡Ø 1¿ù 4ÁÖÂ÷
+- [ÀÏ¿äÀÏ ¿úÈ¦ º¹±â1](http://boj.kr/8b7f4575f721489791e30cf0c31958f4), [¿ù¿äÀÏ Æ®¸®ÀÇ Áö¸§ º¹±â1](http://boj.kr/df668a0cd6f94be3b460b5bb25b8e13c), [¿ù¿äÀÏ ¿úÈ¦ º¹±â2](http://boj.kr/ee988e2c32ac4c4a9c53391c52687434), [¼ö¿äÀÏ ¿úÈ¦ º¹±â3](http://boj.kr/6fcef9e578e34af89153b6e9e2157c35), [¼ö¿äÀÏ Æ®¸®ÀÇ Áö¸§ º¹±â2](http://boj.kr/2738128513c4448e9ada3faa7da33806), [±İ¿äÀÏ ¿úÈ¦ º¹±â4](http://boj.kr/59c2e2546bbb4e50a39a69c68f0c1e24), [±İ¿äÀÏ Æ®¸®ÀÇ Áö¸§ º¹±â3](http://boj.kr/c4a460c79de241b8bad2ee6457917e2f), [Åä¿äÀÏ ¿úÈ¦ º¹±â5](http://boj.kr/8e5b8dceb3084e0e86a044f4fc1c442e), [Åä¿äÀÏ Æ®¸®ÀÇ Áö¸§ º¹±â4](http://boj.kr/b8524e13a19d4945a095b422145bfaa1)
 
-â€» 1ì›” 5ì£¼ì°¨
-- [L2-ê¸°ëŠ¥ê°œë°œ](https://programmers.co.kr/learn/courses/30/lessons/42586)
-  - [í’€ì´](https://jh2song.notion.site/Implementation-8e6d2787429947aba71acbacccb2984c)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.cpp)
-- [L2-í”„ë¦°í„°](https://programmers.co.kr/learn/courses/30/lessons/42587)
-  - [í’€ì´](https://jh2song.notion.site/Implementation-8e6d2787429947aba71acbacccb2984c)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%ED%94%84%EB%A6%B0%ED%84%B0.cpp)
+¡Ø 1¿ù 5ÁÖÂ÷
+- [L2-±â´É°³¹ß](https://programmers.co.kr/learn/courses/30/lessons/42586)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Implementation-8e6d2787429947aba71acbacccb2984c)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.cpp)
+- [L2-ÇÁ¸°ÅÍ](https://programmers.co.kr/learn/courses/30/lessons/42587)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Implementation-8e6d2787429947aba71acbacccb2984c)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%ED%94%84%EB%A6%B0%ED%84%B0.cpp)
 
 ## 2022-02
-â€» 2ì›” 1ì£¼ì°¨
-- [L2-ë‹¤ë¦¬ë¥¼ ì§€ë‚˜ëŠ” íŠ¸ëŸ­](https://programmers.co.kr/learn/courses/30/lessons/42583)
-  - [í’€ì´](https://jh2song.notion.site/Implementation-8e6d2787429947aba71acbacccb2984c)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.cpp)
-- [L2-ë” ë§µê²Œ](https://programmers.co.kr/learn/courses/30/lessons/42626)
-  - [í’€ì´](https://jh2song.notion.site/Priority-Queue-f8861183919a446e8796a1f8ca7f5383)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EB%8D%94%20%EB%A7%B5%EA%B2%8C.cpp)
+¡Ø 2¿ù 1ÁÖÂ÷
+- [L2-´Ù¸®¸¦ Áö³ª´Â Æ®·°](https://programmers.co.kr/learn/courses/30/lessons/42583)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Implementation-8e6d2787429947aba71acbacccb2984c)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.cpp)
+- [L2-´õ ¸Ê°Ô](https://programmers.co.kr/learn/courses/30/lessons/42626)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Priority-Queue-f8861183919a446e8796a1f8ca7f5383)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EB%8D%94%20%EB%A7%B5%EA%B2%8C.cpp)
 
-â€» 2ì›” 2ì£¼ì°¨
-- [L3-ë””ìŠ¤í¬ ì»¨íŠ¸ë¡¤ëŸ¬](https://programmers.co.kr/learn/courses/30/lessons/42627)
-  - [í’€ì´](https://jh2song.notion.site/Priority-Queue-f8861183919a446e8796a1f8ca7f5383)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.cpp)
-- [L3-ì´ì¤‘ìš°ì„ ìˆœìœ„í](https://programmers.co.kr/learn/courses/30/lessons/42628)
-  - [í’€ì´](https://jh2song.notion.site/Multiset-f9c923e6691f4d0e882499ec33aa23d0)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.cpp)
+¡Ø 2¿ù 2ÁÖÂ÷
+- [L3-µğ½ºÅ© ÄÁÆ®·Ñ·¯](https://programmers.co.kr/learn/courses/30/lessons/42627)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Priority-Queue-f8861183919a446e8796a1f8ca7f5383)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.cpp)
+- [L3-ÀÌÁß¿ì¼±¼øÀ§Å¥](https://programmers.co.kr/learn/courses/30/lessons/42628)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Multiset-f9c923e6691f4d0e882499ec33aa23d0)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.cpp)
 
-â€» 2ì›” 3ì£¼ì°¨
-- [ê³¨5-ìµœì†Œë¹„ìš© êµ¬í•˜ê¸°](https://www.acmicpc.net/problem/1916)
-  - [í’€ì´](https://jh2song.notion.site/Dijkstar-0fcfd7f45d2c4241bf96a990320ac278)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1916.cpp)
-- [ê³¨5-Î£](https://www.acmicpc.net/problem/13172)
-  - [í’€ì´](https://jh2song.notion.site/Math-119a9f4e2b7345d6b7c8825cb60b9665)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/boj_13172.cpp)
+¡Ø 2¿ù 3ÁÖÂ÷
+- [°ñ5-ÃÖ¼Òºñ¿ë ±¸ÇÏ±â](https://www.acmicpc.net/problem/1916)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Dijkstar-0fcfd7f45d2c4241bf96a990320ac278)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1916.cpp)
+- [°ñ5-¥Ò](https://www.acmicpc.net/problem/13172)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Math-119a9f4e2b7345d6b7c8825cb60b9665)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/boj_13172.cpp)
 
-â€» 2ì›” 4ì£¼ì°¨
-- [ê³¨5-íŒŒì´í”„ ì˜®ê¸°ê¸° 1](https://www.acmicpc.net/problem/17070)
-  - [í’€ì´](https://jh2song.notion.site/Dynamic-Programming-e0bcb07371234e63b72f7ef23f07554a)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/boj_17070.cpp)
-- [ê³¨4-ê±°ì§“ë§](https://www.acmicpc.net/problem/1043)
-  - [í’€ì´](https://jh2song.notion.site/Union-Find-ec254bac258e45598981d975b2089229)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1043.cpp)
+¡Ø 2¿ù 4ÁÖÂ÷
+- [°ñ5-ÆÄÀÌÇÁ ¿Å±â±â 1](https://www.acmicpc.net/problem/17070)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Dynamic-Programming-e0bcb07371234e63b72f7ef23f07554a)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/boj_17070.cpp)
+- [°ñ4-°ÅÁş¸»](https://www.acmicpc.net/problem/1043)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Union-Find-ec254bac258e45598981d975b2089229)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1043.cpp)
 
 ## 2022-03
-â€» 3ì›” 1ì£¼ì°¨
-- [ê³¨4-íŠ¹ì •í•œ ìµœë‹¨ ê²½ë¡œ](https://www.acmicpc.net/problem/1504)
-  - [í’€ì´](https://jh2song.notion.site/Dijkstra-0fcfd7f45d2c4241bf96a990320ac278)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1504.cpp)
-- [ê³¨4-ë‚´ë ¤ê°€ê¸°](https://www.acmicpc.net/problem/2096)
-  - [í’€ì´](https://jh2song.notion.site/Dynamic-Programming-e0bcb07371234e63b72f7ef23f07554a)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/boj_2096.cpp)
+¡Ø 3¿ù 1ÁÖÂ÷
+- [°ñ4-Æ¯Á¤ÇÑ ÃÖ´Ü °æ·Î](https://www.acmicpc.net/problem/1504)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Dijkstra-0fcfd7f45d2c4241bf96a990320ac278)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1504.cpp)
+- [°ñ4-³»·Á°¡±â](https://www.acmicpc.net/problem/2096)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Dynamic-Programming-e0bcb07371234e63b72f7ef23f07554a)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/boj_2096.cpp)
 
-â€» 3ì›” 2ì£¼ì°¨
-- [ê³¨4-ë¬¸ìì—´ í­ë°œ](https://www.acmicpc.net/problem/9935)
-  - [í’€ì´](https://jh2song.notion.site/Stack-2df6d738b62c467793c965f3d390b78b)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/boj_9935.cpp)
-- [ê³¨4-í–‰ë ¬ ì œê³±](https://www.acmicpc.net/problem/10830)
-  - [í’€ì´](https://jh2song.notion.site/Linear-Algebra-8799d5e241554d4db4558cc58f2d6b66)
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/boj_10830.cpp)
+¡Ø 3¿ù 2ÁÖÂ÷
+- [°ñ4-¹®ÀÚ¿­ Æø¹ß](https://www.acmicpc.net/problem/9935)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Stack-2df6d738b62c467793c965f3d390b78b)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/boj_9935.cpp)
+- [°ñ4-Çà·Ä Á¦°ö](https://www.acmicpc.net/problem/10830)
+  - [Ç®ÀÌ](https://jh2song.notion.site/Linear-Algebra-8799d5e241554d4db4558cc58f2d6b66)
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/boj_10830.cpp)
 
-â€» 3ì›” 3ì£¼ì°¨
-- [ê³¨4-ì„œê°•ê·¸ë¼ìš´ë“œ](https://www.acmicpc.net/problem/14938)
-  - í’€ì´
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/boj_14938.cpp)
-- [ê³¨3-íŒŒí‹°](https://www.acmicpc.net/problem/1238)
-  - í’€ì´
-  - [ì†ŒìŠ¤ì½”ë“œ](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1238.cpp)
+¡Ø 3¿ù 3ÁÖÂ÷
+- [°ñ4-¼­°­±×¶ó¿îµå](https://www.acmicpc.net/problem/14938)
+  - Ç®ÀÌ
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/boj_14938.cpp)
+- [°ñ3-ÆÄÆ¼](https://www.acmicpc.net/problem/1238)
+  - Ç®ÀÌ
+  - [¼Ò½ºÄÚµå](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1238.cpp)
