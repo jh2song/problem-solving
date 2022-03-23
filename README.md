@@ -99,7 +99,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 위주로 사용할 예정�
 
 ※ 3월 3주차
 - [골4-서강그라운드](https://www.acmicpc.net/problem/14938)
-  - 풀이
+  - [풀이](https://jh2song.notion.site/Floyd-Warshall-46745a0b0efd4a53bcb4dc6780ddccc0)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_14938.cpp)
 - [골3-파티](https://www.acmicpc.net/problem/1238)
   - 풀이
