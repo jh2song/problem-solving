@@ -104,3 +104,11 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 위주로 사용할 예정�
 - [골3-파티](https://www.acmicpc.net/problem/1238)
   - 풀이
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1238.cpp)
+
+※ 3월 4주차
+- [골3-최소비용 구하기 2](https://www.acmicpc.net/problem/11779)
+  - 풀이
+  - 소스코드
+- [골5-다각형의 면적](https://www.acmicpc.net/problem/2166)
+  - 풀이
+  - 소스코드
