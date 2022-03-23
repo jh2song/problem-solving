@@ -102,7 +102,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 위주로 사용할 예정�
   - [풀이](https://jh2song.notion.site/Floyd-Warshall-46745a0b0efd4a53bcb4dc6780ddccc0)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_14938.cpp)
 - [골3-파티](https://www.acmicpc.net/problem/1238)
-  - 풀이
+  - [풀이](https://jh2song.notion.site/Dijkstra-0fcfd7f45d2c4241bf96a990320ac278)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1238.cpp)
 
 ※ 3월 4주차
