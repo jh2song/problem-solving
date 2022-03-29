@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -7,17 +8,30 @@ int n;
 
 int main()
 {
-	ios::sync_with_stdio(false);
-	cin.tie(NULL);
+	scanf(" %d", &n);
+	vector<pdd> v(n + 1);
 
-	cin >> n;
-	vector<pdd> v(n);
-
-	for (int i = 0; i < n; i++)
+	for (int i = 1; i <= n; i++)
 	{
-		cin >> v[i].first >> v[i].second;
+		scanf(" %lf %lf", &v[i].first, &v[i].second);
 	}
 
-	// ½Å¹ß²ö °ø½Ä
+	// Shoelace formula
+	double sum = 0;
+	for (int i = 1; i <= n - 1; i++)
+	{
+		sum += v[i].first * v[i + 1].second;
+	}
+	sum += v[n].first * v[1].second;
+	for (int i = 2; i <= n; i++)
+	{
+		sum -= v[i].first * v[i - 1].second;
+	}
+	sum -= v[1].first * v[n].second;
+	
+	sum = abs(sum);
+	sum /= 2;
+	printf("%.1lf", sum);
 
+	return 0;
 }
