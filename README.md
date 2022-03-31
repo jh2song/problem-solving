@@ -107,7 +107,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 
 ※ 3월 4주차
 - [골3-최소비용 구하기 2](https://www.acmicpc.net/problem/11779)
-  - 풀이
+  - [풀이](https://jh2song.notion.site/Dijkstra-0fcfd7f45d2c4241bf96a990320ac278)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_11779.cpp)
 - [골5-다각형의 면적](https://www.acmicpc.net/problem/2166)
   - 풀이
