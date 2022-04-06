@@ -115,9 +115,8 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 
 ## 2022-04
 ※ 4월 1주차
+> 풀이를 포스팅하는게 시간적, 정신적으로 비효율적이라 느껴 잠시 풀이를 중단합니다. 대신 문제풀이 수를 늘릴 계획입니다.
 - [골5-용액](https://www.acmicpc.net/problem/2467)
-  - 풀이
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_2467.cpp)
 - [골4-도시 분할 계획](https://www.acmicpc.net/problem/1647)
-  - 풀이
-  - 소스코드
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1647.cpp)
