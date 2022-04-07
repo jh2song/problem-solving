@@ -120,3 +120,5 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_2467.cpp)
 - [골4-도시 분할 계획](https://www.acmicpc.net/problem/1647)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_1647.cpp)
+- [골4-부분합](https://www.acmicpc.net/problem/1806)
+  - 소스코드
