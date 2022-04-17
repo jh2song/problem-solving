@@ -4,7 +4,7 @@ using namespace std;
 int n, m;
 int cnt, person;
 int parent[51];
-vector<int> v[51];
+vector<int> graph[51];
 vector<int> knowing;
 int before;
 
@@ -49,13 +49,13 @@ int main()
 			{
 				cin >> person;
 				Union(before, person);
-				v[i].push_back(person);
+				graph[i].push_back(person);
 				before = person;
 			}
 			else
 			{
 				cin >> person;
-				v[i].push_back(person);
+				graph[i].push_back(person);
 				before = person;
 			}
 		}
@@ -65,7 +65,7 @@ int main()
 	for (int i = 1; i <= m; i++)
 	{
 		bool flag = false;
-		for (auto& person : v[i])
+		for (auto& person : graph[i])
 		{
 			if (flag)
 				break;

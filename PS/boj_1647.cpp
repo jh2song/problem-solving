@@ -4,7 +4,7 @@ using namespace std;
 int n, m;
 int parent[100001];
 int level[100001];
-vector<pair<int, pair<int, int>>> v;
+vector<pair<int, pair<int, int>>> graph;
 int answer = 0;
 bool flag = false;
 
@@ -56,16 +56,16 @@ int main()
 		level[i] = 1;
 	}
 
-	v.resize(m);
+	graph.resize(m);
 
 	for (int i = 0; i < m; i++)
 	{
-		cin >> v[i].second.first >> v[i].second.second >> v[i].first;
+		cin >> graph[i].second.first >> graph[i].second.second >> graph[i].first;
 	}
 
-	sort(v.begin(), v.end());
+	sort(graph.begin(), graph.end());
 
-	for (auto& e : v)
+	for (auto& e : graph)
 	{
 		Union(e.second.first, e.second.second, e.first);
 		if (flag)

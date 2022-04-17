@@ -6,7 +6,7 @@ typedef pair<int, int> pii;
 int n, m, x;
 int a, b, c;
 int dist[1001];
-vector<pii> v[1001];
+vector<pii> graph[1001];
 
 
 int Dijkstra(int start, int end)
@@ -28,7 +28,7 @@ int Dijkstra(int start, int end)
 		if (cd > dist[cn])
 			continue;
 
-		for (auto& e : v[cn])
+		for (auto& e : graph[cn])
 		{
 			int nn = e.first;
 			int nd = cd + e.second;
@@ -52,7 +52,7 @@ int main()
 	for (int i = 0; i < m; i++)
 	{
 		cin >> a >> b >> c;
-		v[a].push_back({ b, c });
+		graph[a].push_back({ b, c });
 	}
 
 	int ans = -1;

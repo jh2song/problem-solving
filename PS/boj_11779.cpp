@@ -2,7 +2,7 @@
 using namespace std;
 
 typedef pair<int, int> pii;
-vector<pii> v[1001];
+vector<pii> graph[1001];
 int dist[1001];
 int parent[1001];
 
@@ -29,7 +29,7 @@ void Dijkstra(int start)
 		if (cur_weight > dist[cur_node])
 			continue;
 
-		for (auto& e : v[cur_node])
+		for (auto& e : graph[cur_node])
 		{
 			int next_node = e.first;
 			int next_weight = cur_weight + e.second;
@@ -55,7 +55,7 @@ int main()
 	{
 		int a, b, c;
 		cin >> a >> b >> c;
-		v[a].push_back({ b, c });
+		graph[a].push_back({ b, c });
 	}
 	cin >> s >> e;
 

@@ -8,7 +8,7 @@ int answer_s, answer_e;
 int dist[1001];
 
 typedef pair<int, int> pii;
-vector<pair<int, int>> v[1001]; // index: start // first: end // second: weight
+vector<pair<int, int>> graph[1001]; // index: start // first: end // second: weight
 
 void Dijkstra(int start)
 {
@@ -26,7 +26,7 @@ void Dijkstra(int start)
 		if (w > dist[c])
 			continue;
 		
-		for (auto e : v[c])
+		for (auto e : graph[c])
 		{
 			int next_c = e.first;
 			int next_w = w + e.second;
@@ -53,7 +53,7 @@ int main()
 	for (int i = 0; i < m; i++)
 	{
 		cin >> s >> e >> w;
-		v[s].push_back({ e, w });
+		graph[s].push_back({ e, w });
 	}
 	cin >> answer_s >> answer_e;
 
