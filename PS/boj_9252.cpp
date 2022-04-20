@@ -41,7 +41,7 @@ int main()
 	{
 		int i = alen;
 		int j = blen;
-		while (dp[i][j]!=0)
+		while (dp[i][j] != 0)
 		{
 			if (a[i - 1] == b[j - 1])
 			{
