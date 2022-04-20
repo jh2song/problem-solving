@@ -135,4 +135,4 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 - [골4-별자리 만들기](https://www.acmicpc.net/problem/4386)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_4386.cpp)
 - [골4-LCS 2](https://www.acmicpc.net/problem/9252)
-  - 소스코드
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_9252.cpp)
