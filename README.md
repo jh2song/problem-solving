@@ -139,4 +139,4 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 - [골4-RGB거리 2](https://www.acmicpc.net/problem/17404)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_17404.cpp)
 - [골3-부분 문자열](https://www.acmicpc.net/problem/16916)
-  - 
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_16916.cpp)
