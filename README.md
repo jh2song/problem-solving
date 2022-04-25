@@ -142,6 +142,8 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/boj_16916.cpp)
 
 ※ 4월 4주차
-- [L2-문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057), [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.cpp)
-- 
+- [L2-문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.cpp)
+- [L2-H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) 
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_H-Index.cpp)
 
