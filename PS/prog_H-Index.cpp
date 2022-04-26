@@ -20,3 +20,7 @@ int solution(vector<int> citations) {
 
     return answer;
 }
+
+/*
+한글 인코딩 테스트
+*/
