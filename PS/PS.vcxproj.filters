@@ -114,5 +114,8 @@
     <ClCompile Include="prog_H-Index.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="HangulTest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
