@@ -151,5 +151,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 ※ 5월 1주차
 - [L2-소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
   - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.cpp)
+- [L2-카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+  - 소스코드
 
 
