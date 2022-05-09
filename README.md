@@ -158,7 +158,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 
 ※ 5월 2주차
 - [L2-조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
-  - 소스코드
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.cpp)
 
 
 
