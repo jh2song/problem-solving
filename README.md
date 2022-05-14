@@ -164,7 +164,7 @@ Visual Studio 2019 환경에서 동작되도록 설정하였습니다. C++을 �
 
 ※ 5월 3주차
 - [L2-구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
-  - 소스코드
+  - [소스코드](https://github.com/jh2song/problem-solving/blob/master/PS/prog_%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.cpp)
 
 
 
